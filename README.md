@@ -1,4 +1,4 @@
-# Auto-Revoke Bot
+# Leak Shield Bot
 
 A Python-based GitHub webhook listener that automatically detects leaked AWS access keys in your commits, verifies if they are live, and revokes them immediately to prevent unauthorized access.
 
